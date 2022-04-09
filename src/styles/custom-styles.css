@@ -1,0 +1,13 @@
+.bg-dark {
+  background-color: rgb(56, 56, 56);
+}
+
+.text-white {
+  color: white;
+}
+
+.shoping-cart {
+  position: fixed;
+  top: 0;
+  right: 10px;
+}
